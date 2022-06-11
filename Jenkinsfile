@@ -1,2 +1,2 @@
 @Library('team2-test-library') _
-testApp 
+testApp  'https://github.com/etechDevops/testapp-library.git'
